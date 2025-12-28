@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Ana, a ML-engineer based in Russia.
+I put my heart and soul into my projects to make them effective and automate the boring stuff.
+My main tech stack is Python, pandas, numpy, matplotlib, scikit-learn, seaborn. Also I love low-code/no-code tools like n8n and LangFlow.
+At the moment I'm working on an AI agent to upgrade educational process.
+I'm currently learning RAG, Qdrant, LangFlow, Docker, Fast API
 
 <!--
 **Anaburiak/Anaburiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
