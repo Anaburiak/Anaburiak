@@ -7,7 +7,13 @@ My main tech stack is Python, pandas, numpy, matplotlib, scikit-learn, seaborn. 
 
 🔭 At the moment I'm working on an AI agent to upgrade educational process.
 
-🌱 I'm currently learning RAG, Qdrant, LangFlow, Docker, Fast API
+
+## 🌱 Tools
+Main: Python, pandas, numpy, matplotlib, scikit-learn, seaborn. 
+
+Automatization: n8n and LangFlow.
+
+Currentlly learning RAG, Qdrant, Docker, Fast API
 
 <!--
 **Anaburiak/Anaburiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
