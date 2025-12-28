@@ -13,7 +13,7 @@ Main: Python, pandas, numpy, matplotlib, scikit-learn, seaborn.
 
 Automatization: n8n and LangFlow.
 
-Currentlly learning RAG, Qdrant, Docker, Fast API
+Currentlly learning: RAG, Qdrant, Docker, Fast API
 
 <!--
 **Anaburiak/Anaburiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
